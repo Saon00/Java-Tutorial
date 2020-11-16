@@ -18,6 +18,7 @@
   - [Sum-Avg-Max Example](/Beginner/003_Array/SumAvgMax.java/)
   - [Sorting Array](/Beginner/003_Array/SortingArray.java/)
   - [ArrayList](/Beginner/003_Array/Arraylist.java/)
+  
 - [Math](/Beginner/005_Math/)
   - [Math Functions](/Beginner/005_Math/MathClass.java/)
   - [Multiplication](/Beginner/005_Math/Multiplication.java/)
@@ -27,12 +28,41 @@
   - [Factorial Recursive Method](/Beginner/005_Math/FactorialRecursion.java/)
   - [ArmStrong Number](/Beginner/005_Math/ArmStrong.java/)
   - [Reverse Number](/Beginner/005_Math/ReverseNumber.java/)
+  
 - [Number](/Beginner/006_Number/)
   - [Number Converting](/Beginner/006_Number/NumberConversation.java/)
   - [Number Formatting](/Beginner/006_Number/NumberFormatting.java/)
+  
+- [Loops](/Beginner/007_Loop/)
+
+- [Method](/Beginner/008_Method/)
+  - [Abstract Method](/Beginner/008_Method/Abstract Method/)
+  - [Interface Method](/Beginner/008_Method/Interface Method/)
+  - [Constructor+Overloading](/Beginner/009_OOP/Constructor Overloading/)
+  - [Parameter](/Beginner/009_OOP/Parameter/)
+  
+- [Object Oriented Programming](/Beginner/009_OOP/)
+  - [Inheritence](/Beginner/009_OOP/Inheritence/)
+  - [Encapsulation](/Beginner/009_OOP/Encapsulation/)
+  - [Abstraction](/Beginner/008_Method/Abstract Method/)
+
+- [Handling](/Beginner/010_FileHandling/)
+  - [File Handling Way-1](/Beginner/010_FileHandling/Method_1/)
+  - [File Handling Way-2](/Beginner/010_FileHandling/Method_2/)
+  - [Exception Handling](/Beginner/010_FileHandling/Exceptions/)
+  - [Throws Exceptions](/Beginner/010_FileHandling/ThorwsException/)
+  
+- [Java OOP Misc](/Beginner/011_JavaOOPsMisc/)
+  - [Anonymous Inner Class][4]
+  - [Call by Refference](/Beginner/011_JavaOOPsMisc/CallByRefference/)
+  - [Call by Value](/Beginner/011_JavaOOPsMisc/CallByValue/)
+  - [Hash Set](/Beginner/011_JavaOOPsMisc/Hash/HashSetDemo.java/)
+  - [Hash Map](/Beginner/011_JavaOOPsMisc/Hash/HashMapDemo.java/)
+  - [LinkedList-Demo](/Beginner/011_JavaOOPsMisc/LinkedList/LinkedListDemo.java/)
   
 
 <!-- Links -->
 [1]:https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/001_Data%20Types
 [2]:https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/001_Data%20Types/Primitive
 [3]:https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/001_Data%20Types/Reference
+[4]:https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/011_JavaOOPsMisc/Anonymous%20Inner%20Class
