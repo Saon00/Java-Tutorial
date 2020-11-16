@@ -36,15 +36,15 @@
 - [Loops](/Beginner/007_Loop/)
 
 - [Method](/Beginner/008_Method/)
-  - [Abstract Method](/Beginner/008_Method/Abstract Method/)
-  - [Interface Method](/Beginner/008_Method/Interface Method/)
-  - [Constructor+Overloading](/Beginner/009_OOP/Constructor Overloading/)
+  - [Abstract Method](https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/008_Method/Abstract%20Method)
+  - [Interface Method](https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/008_Method/Interface%20Method)
+  - [Constructor+Overloading](https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/009_OOP/Constructor%20Overloading)
   - [Parameter](/Beginner/009_OOP/Parameter/)
   
 - [Object Oriented Programming](/Beginner/009_OOP/)
   - [Inheritence](/Beginner/009_OOP/Inheritence/)
   - [Encapsulation](/Beginner/009_OOP/Encapsulation/)
-  - [Abstraction](/Beginner/008_Method/Abstract Method/)
+  - [Abstraction](https://github.com/Saon00/Java-Tutorial/tree/main/Beginner/008_Method/Abstract%20Method)
 
 - [Handling](/Beginner/010_FileHandling/)
   - [File Handling Way-1](/Beginner/010_FileHandling/Method_1/)
