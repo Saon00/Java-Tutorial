@@ -28,6 +28,7 @@
   - [Factorial Recursive Method](/Beginner/005_Math/FactorialRecursion.java/)
   - [ArmStrong Number](/Beginner/005_Math/ArmStrong.java/)
   - [Reverse Number](/Beginner/005_Math/ReverseNumber.java/)
+  - [GCD & LCM](/Beginner/005_Math/GCD_LCM/)
   
 - [Number](/Beginner/006_Number/)
   - [Number Converting](/Beginner/006_Number/NumberConversation.java/)
