@@ -10,6 +10,7 @@
   - [String Buffer](/Beginner/002_String/StringBufferClass.java/)
   - [String Palindrome](/Beginner/002_String/StringPalindrome.java/)
   - [String to Primitive and vice versa](/Beginner/004_Wrapper/)
+  - [BufferedReader Class](/Beginner/002_String/BufferedReader.java/)
   
 - [Array](/Beginner/003_Array/)
   - [Basic Array](/Beginner/003_Array/BasicArray.java/)
