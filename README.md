@@ -11,6 +11,7 @@
   - [String Palindrome](/Beginner/002_String/StringPalindrome.java/)
   - [String to Primitive and vice versa](/Beginner/004_Wrapper/)
   - [BufferedReader Class](/Beginner/002_String/BufferedReader.java/)
+  - [Choose Random Characters](/Beginner/002_String/RandomCharacter.java/)
   
 - [Array](/Beginner/003_Array/)
   - [Basic Array](/Beginner/003_Array/BasicArray.java/)
