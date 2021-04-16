@@ -63,6 +63,10 @@
   - [Hash Set](/Beginner/011_JavaOOPsMisc/Hash/HashSetDemo.java/)
   - [Hash Map](/Beginner/011_JavaOOPsMisc/Hash/HashMapDemo.java/)
   - [LinkedList-Demo](/Beginner/011_JavaOOPsMisc/LinkedList/LinkedListDemo.java/)
+
+- [Java Collections](/Intermediate/)
+  - [Array List](/Intermediate/01_Collections/ArrayListExamples/)
+  - [Signly LinkedList](/Intermediate/01_Collections/SinglyLinkedList/) 
   
 - [Youtube Tutorials ](/Beginner/009_OOP/YouTube_Tutorials/)<img alt="YoutubeLogo" width="25px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />
     - [Class & Object](https://youtu.be/CoFq4quEAW0)
