@@ -15,10 +15,20 @@
 - [Singly Linked Lists]
     - time complexity O(1) `Because it don't depends how many items in the list. As long you inserting/removing at the front of the list.`
     - Only have a refference to the head of the list
+- [Doubly Linked Lists](/Intermediate/01_Collections/DoublyLinkedLIst/
+) - Ref: [One], [Two]
+    - time complexity O(1) `Because we've a pointer, or a refference, to the tail of the list.`
+    - Each item in the list has Next and Previous Field
+    - This list has a HEAD and a TAIL
+    - 
+- Linked List
+    - Actually Liked List is one kind of Doubly Linked Lists.
+    - We should use Linked Lists if we want to insert/delete something from the head or tail. Cz, if you try to do something from the middle, then we'll lose the advantages of using Linked Lists.
     
 
     
 <!-- important links -->
-
+[One]: https://www.softwaretestinghelp.com/doubly-linked-list-in-java/
+[Two]: https://dzone.com/articles/doubly-linked-list-in-java
 [Singly Linked Lists]: https://examples.javacodegeeks.com/singly-linked-list-java-example/
 [Thead Safe]: https://www.codejava.net/java-core/collections/understanding-collections-and-thread-safety-in-java
