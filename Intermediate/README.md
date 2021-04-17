@@ -1,6 +1,6 @@
 ## This MarkDown file created for providing extra informations about this folder.
 
-- ArrayList
+- [ArrayList](/Intermediate/01_Collections/ArrayListExamples/)
     - It is in Jdk since 1.2
     - Not Syncronised
     - If you don't need to syncronise any code. Just simply use this.
@@ -20,10 +20,13 @@
     - time complexity O(1) `Because we've a pointer, or a refference, to the tail of the list.`
     - Each item in the list has Next and Previous Field
     - This list has a HEAD and a TAIL
-    - 
-- Linked List
+    
+- [Linked List](/Intermediate/01_Collections/LinkedListExamples/)
     - Actually Liked List is one kind of Doubly Linked Lists.
     - We should use Linked Lists if we want to insert/delete something from the head or tail. Cz, if you try to do something from the middle, then we'll lose the advantages of using Linked Lists.
+    - [Oracle Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/LinkedList.html)
+- [Circular Linked List](https://www.baeldung.com/java-circular-linked-list)
+    - A circular linked list is a variation of a linked list in which the last node points to the first node, completing a full circle of nodes. In other words, this variation of the linked list doesn't have a null element at the end.
     
 
     
