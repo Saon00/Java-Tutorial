@@ -68,6 +68,7 @@
   - [Array List](/Intermediate/01_Collections/ArrayListExamples/)
   - [Signly LinkedList](/Intermediate/01_Collections/SinglyLinkedList/) 
   - [Doubly LinkedList](/Intermediate/01_Collections/DoublyLinkedLIst/)
+  - [Linked List](/Intermediate/01_Collections/LinkedListExamples/)
   
 - [Youtube Tutorials ](/Beginner/009_OOP/YouTube_Tutorials/)<img alt="YoutubeLogo" width="25px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />
     - [Class & Object](https://youtu.be/CoFq4quEAW0)
