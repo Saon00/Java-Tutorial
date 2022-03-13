@@ -2,26 +2,27 @@ import java.util.Scanner;
 
 public class CheckCommentedLine {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-//        String line = "// Saon Sikder";
-        String line = "/* Saon Sikder */";
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the line: ");
+        String line = scanner.nextLine();
 
-        char[] charray = line.toCharArray();
+        char[] chararray = line.toCharArray();
 
-        if (charray[0] == '/') {
-            if (charray[1] == '/') {
-                System.out.println("This is a single line Comment");
+        if (chararray[0] == '/') {
+            if (chararray[1] == '/') {
+                System.out.println("This is a single line comment");
                 return;
-            } else if (charray[1] == '*') {
-                if (charray[charray.length - 2] == '*' && charray[charray.length - 1] == '/') {
-                    System.out.println("This is a Multiple line Comment");
+            } else if (chararray[1] == '*') {
+                if (chararray[chararray.length - 2] == '*' && chararray[chararray.length - 1] == '/') {
+                    System.out.println("This is a multiple line comment");
                     return;
                 }
+                System.out.println("This is not a Commented line");
+                return;
             }
+            System.out.println("This is not a Commented line");
         } else {
-            System.out.println("This is not a commented line");
-
+            System.out.println("This is not a Commented line");
         }
-
     }
 }
